@@ -1,6 +1,7 @@
 ---
 name: User Story
-about: Create User Stories compatible with AGILE and using the Gherkin syntax
+about: Create User Stories that are AGILE compatible and use the Gherkin syntax to
+  define acceptance criteria
 title: ''
 labels: ''
 assignees: ''
